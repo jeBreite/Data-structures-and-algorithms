@@ -6,12 +6,7 @@ import java.util.Iterator;
 public class TRAI_21_X7_jebreite<E> implements TRAI_21_X7<E> {
 
     /**
-     * ITSEARVIOINTI TÄHÄN: Tehtävä oli tällä kertaa haastava, erityisesti
-     * renkaan toteuttaminen ja kasvattaminen (sekä tulostaminen) tuottivat
-     * aluksi suuria hankaluuksia. Sain kuitenkin omasta mielestäni melko
-     * suoraviivaisen ratkaisun toteutettua. Hieman jäin pohtimaan olisiko
-     * ratkaisun voinut toteuttaa yksinkertaisemmin tai "kauniimmin".
-     *
+     * aikavaativuus:
      * lisaa – O(1) tai jos taulukon kokoa kasvatetaan O(n) poista – O(1)
      * onkoTyhja – O(1)
      *
